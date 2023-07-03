@@ -1,3 +1,5 @@
+#Date July 3rd, I opened the Python file using Nano, 
+#And I only add a comment into the Python file
 from sklearn.linear_model import LinearRegression
 
 #Create sample training data
